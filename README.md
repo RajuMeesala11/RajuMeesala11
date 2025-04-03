@@ -1,5 +1,3 @@
-RajuMeesala11 / README.md
-
 ## Hi there, I’m Raju Meesala! 👋
 
 - **AI & Machine Learning Enthusiast:** Built a strong foundation in artificial intelligence, machine learning, and data science through 6+ years of experience and advanced education
